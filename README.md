@@ -1,2 +1,2 @@
 # API-test
-API Test Dommy
+API Test Dommy for web automation
